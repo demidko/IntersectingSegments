@@ -1,2 +1,2 @@
-# IntersectingSegments
-Программа поиска пересекающихся отрезков на координатной плоскости
+## IntersectingSegments
+This program searches for intersecting segments; there is multithreading support.
