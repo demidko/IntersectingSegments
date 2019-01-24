@@ -1,2 +1,2 @@
 ## IntersectingSegments
-This program searches for intersecting segments; there is multithreading support.
+This program is looking for intersecting segments, there is support for multithreading.
